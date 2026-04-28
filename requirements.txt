@@ -1,6 +1,7 @@
-vanna[openai,postgres]
+vanna==0.7.1
+vanna[openai]
+vanna[postgres]
 pandas
-sqlalchemy
 psycopg2-binary
 flask
 flask-cors
