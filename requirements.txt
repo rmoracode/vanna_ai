@@ -1,7 +1,7 @@
-vanna==0.7.1
+vanna==0.6.0
 vanna[openai]
 vanna[postgres]
-pandas
-psycopg2-binary
 flask
 flask-cors
+psycopg2-binary
+pandas
