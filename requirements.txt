@@ -1,7 +1,0 @@
-vanna[openai]
-pandas
-sqlalchemy
-psycopg2-binary
-flask
-flask-cors
-# update
