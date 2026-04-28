@@ -1,6 +1,6 @@
 import os
 import vanna
-# Importación directa para evitar errores de submódulo
+# Usamos una importación más segura
 from vanna.remote import VannaDefault
 from vanna.flask import VannaFlaskApp
 
