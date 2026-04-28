@@ -1,6 +1,6 @@
-vanna
-openai
+vanna[openai,postgres]
+pandas
+sqlalchemy
+psycopg2-binary
 flask
 flask-cors
-psycopg2-binary
-pandas
